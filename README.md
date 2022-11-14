@@ -1,3 +1,8 @@
+
+😊😊 Hi all i am Michael Kanios i build this only with Flex and i made it full mobile responsive👍👍
+***HELP ME WITH YOUR FEEDBACK***
+
+
 # Frontend Mentor - 3-column preview card component
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
